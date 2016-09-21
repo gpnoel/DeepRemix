@@ -8,10 +8,8 @@ docutils==0.12
 imagesize==0.7.1
 Jinja2==2.8
 Keras==1.1.0
-Keras==1.1.0
 livereload==2.4.1
 MarkupSafe==0.23
-numpy==1.11.1
 numpy==1.11.1
 pathtools==0.1.2
 port-for==0.3.1
@@ -27,7 +25,6 @@ snowballstemmer==1.2.1
 sphinx-autobuild==0.6.0
 Sphinx==1.4.6
 tensorflow==0.10.0
-Theano==0.8.2
 Theano==0.8.2
 tornado==4.4.1
 watchdog==0.8.3
