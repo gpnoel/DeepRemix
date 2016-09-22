@@ -23,7 +23,6 @@ six==1.10.0
 snowballstemmer==1.2.1
 sphinx-autobuild==0.6.0
 Sphinx==1.4.6
-tensorflow==0.10.0
 Theano==0.8.2
 tornado==4.4.1
 watchdog==0.8.3
